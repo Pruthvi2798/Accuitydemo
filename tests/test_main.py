@@ -1,4 +1,4 @@
-i# tests/test_main.py
+# tests/test_main.py
 
 import unittest
 from src.main import greet
@@ -12,4 +12,3 @@ class TestGreet(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-
