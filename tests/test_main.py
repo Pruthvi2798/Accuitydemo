@@ -1,4 +1,4 @@
-i# tests/test_main.py
+# tests/test_main.py
 
 import unittest
 from src.main import greet
